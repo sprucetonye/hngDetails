@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./djangoapi_home/details"]
+}

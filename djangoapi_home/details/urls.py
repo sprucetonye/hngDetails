@@ -8,5 +8,6 @@ urlpatterns = [
     path('admin', admin.site.urls),
     path('profiles/', views.profile_list),
     re_path(r'^$', views.profile_list, name='profiles'),
+    
 ]
 
